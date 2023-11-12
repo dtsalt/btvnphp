@@ -1,0 +1,46 @@
+.box{
+    text-align: center;
+    border: 2px solid #f1f1f1;
+    box-shadow: 10px 10px 10px cornsilk;
+    margin-top: 5%;
+    margin-bottom: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.anh{
+    width: 150px;
+    height: 150px;
+}
+
+.tieude{
+    text-align: center;
+    color: aqua;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 0 0 0 0px;
+    font-style: italic;
+
+}
+.a{
+    margin-right: 20%;
+}
+.b{
+    margin-right: 20%;
+}
+
+.thuchien{
+    border: 2px solid black;
+    background-color: antiquewhite;
+    font-style: italic;
+    margin-left: 5px;
+
+}
+.reset{
+   border: 2px solid black;
+   background-color: antiquewhite;
+   font-style: italic;
+   margin-left: 10px;
+
+}

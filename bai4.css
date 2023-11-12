@@ -1,0 +1,44 @@
+.box{
+    border: 3px solid #f1f1f1;
+    box-shadow: 10px 15px 15px cornsilk;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 15px;
+    padding: 15px;
+    width:auto ;
+    height:auto;
+    box-sizing: border-box;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+    color: coral;
+
+}
+.anh{
+    width: 100px;
+    height: 100px;
+}
+.tenkh{
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 50px;
+    font-style: italic;
+    color: coral;
+}
+.dau{
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 90px;
+    font-style: italic;
+    color: coral;
+}
+.cuoi{
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 90px;
+    font-style: italic;
+    color: coral;
+}
+
+
+

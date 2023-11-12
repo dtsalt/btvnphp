@@ -1,0 +1,45 @@
+body{
+    border: 3px solid #f2f2f2;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+    padding: 15px;
+    box-shadow: 10px 10px 10px cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.ul {
+    list-style: none;
+    margin-right: 50px;
+   
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+    color: coral;
+}
+a{
+    text-decoration: none;
+}
+.bai1{
+   font-style: italic;
+   text-align: center;
+   font-size: 25px;
+
+}
+.bai2{
+    font-style: italic;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 3px;
+}
+.bai4{
+    font-style: italic;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 3px;
+}
+

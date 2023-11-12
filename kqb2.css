@@ -1,0 +1,21 @@
+body{
+    border: 3px solid #f1f1f1;
+    box-shadow: 10px 10px 10px cornsilk;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.anh{
+    width: 150px;
+    height: 150px;
+}
+h2{
+    font-style: italic;
+    color: aqua;
+    font-size: 30px;
+
+
+}

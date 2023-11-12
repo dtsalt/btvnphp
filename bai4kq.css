@@ -1,0 +1,35 @@
+.Box{
+    border: 3px solid #f1f1f1;
+    box-shadow: 10px 15px 15px cornsilk;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+    padding: 15px;
+    width:auto ;
+    height:auto;
+    box-sizing: border-box;
+}
+
+
+.dau{
+    text-align: left;
+    margin-right:100px; 
+
+}
+.cuoi{
+    text-align: left;
+    margin-right:95px;
+}
+h1{
+    
+    font-style: italic;
+    text-align: center;
+    color: cadetblue;
+
+}
+.anh{
+    width: 100px;
+    height: 100px;
+}
+
